@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora BigInt</string>
+    <string name="segundo_n_mero">Segundo número:</string>
+    <string name="primeiro_n_mero">Primeiro número:</string>
+    <string name="somar">+</string>
+    <string name="multiplicar">*</string>
+    <string name="resultado">Resultado:</string>
+    <string name="result">result</string>
+</resources>
